@@ -12,6 +12,8 @@ Trying to use new Account
 
 Account 2 make branch!
 
+Fixing issue 1 (Bug)
+
 
 
 
